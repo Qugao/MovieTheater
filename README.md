@@ -1,8 +1,9 @@
 # MovieTheater
 
 Assumptions:
-Each group is separate by three seats left and right for safety concern.
-The movie theater has the seating arrangement of 10 rows x 20 seats.
+
+1. Each group is separate by three seats left and right for safety concern.
+2. The movie theater has the seating arrangement of 10 rows x 20 seats.
 
 Instructions:
 Download jar files from result folder first.
